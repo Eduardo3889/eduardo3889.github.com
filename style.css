@@ -1,0 +1,107 @@
+*{
+	margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+	font-family: Helvetica, sans-serif;
+}
+
+
+body{
+	background-color:whitesmoke
+}
+
+
+.barra{
+	padding: 15px;
+	height: 50px;
+	display:flex;
+	background-color: rgb(34, 34, 34);
+}
+
+
+.barra nav{
+	text-align: right;
+	display:flex;
+}
+
+.barra ul{
+	text-align: right;
+	display: flex;
+	list-style: none;
+}
+
+.barra li{
+	text-align: right;
+}
+
+.barra a{
+	margin-right: 50px;
+	font-weight: bold;
+	color: aliceblue;
+	text-decoration: none;
+}
+
+
+.topo{
+	padding-top: 100px;
+	background-image: url(../fundo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 800px;
+}
+
+.perfil{
+	opacity: 70%;
+	border-radius: 20px;
+	width: 800px;
+	background-color: aliceblue;
+	padding: 50px;
+	text-align: center;
+}
+
+.perfil p{
+	opacity: 100%;
+	margin-top: 10px;
+	font-size: larger;
+}
+
+.rodape{
+	height: 100px;
+	background-color: rgb(34, 34, 34);
+}
+
+.rodape p{
+	padding-top: 40px;
+	color: aliceblue;
+	text-align: center;
+}
+
+form{
+	text-align: left;
+	border-radius: 20px;
+	padding: 50px;
+	background-color: yellowgreen;
+	width: 400px;
+	height: 430px;
+}
+
+input{
+	width: 300px;
+}
+
+textarea{
+	width: 300px;
+}
+
+.button{
+	padding-top:10px ;
+	display: flex;
+	width: 100px;
+	margin: 5px;
+}
+
+.social{
+	margin-top: 10px;
+}

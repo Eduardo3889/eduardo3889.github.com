@@ -1,0 +1,75 @@
+<DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viexport" content="width=divice-width, initial-scale=1.0 ">
+	<link rel= " stylesheet " href="./style.css ">
+	<!--API-->
+	<script src="https://unpkg.com/scrollreveal"></script>
+    <title>Eduardo Freire</title>
+	
+</head>
+<body>
+  <div class="menu">
+    <nav>
+      <UL>
+        <li><a href="#perfilpessoal">sobre mim</a></li>
+        <li><a href="#experienciadetrabalho">experiencia</a>l</li>
+        <li><a href="#historicoacademico">historicoescolar</a></li>
+        <li><a href="#habilidades">habilidades</a></li>
+        <li><a href=" #contato ">contatos</a></li>
+      </UL> 
+  </nav>
+  </div>
+    <main>
+    <header>
+	  <div class="  meu_cabecalho">
+    
+        <img src="./perfil.jfif " alt="image" height="150" width="150">
+		<h1>Eduardo Freire Garcia</h1>
+	  
+    </header>
+    <main>
+        <ul>
+          <li class="meu_conteudo">
+            <a href="#perfilpessoal" ><h2>Perfil Pessoal</h2></a> 
+            <p>Proativo e ótimo comunicador,esforçado nas atividades que faço, sou uma pessoa agradável, tenho maturidade para aprender o que me é designado a fazer.</p>
+          </li>
+          <li class="meu_conteudo">
+            <a href="#experienciadetrabalho"><h2>experiência de Trabalho</h2></a>
+            <p>Point Decor</p>
+            <P>Recebi ótimos feedebacks dos clientes</p>
+          </li>
+          <li class="meu_conteudo">
+            <a href="#historicoacademico"><h2>Histórico Acadêmico</h2></a>
+            <p>CIEP 259 Maria Do Amparo Rangel De Souza-2019/2021</p>
+            <p>PROGRESSÃO/ZeroHum-2018/2019</p>
+		  </li>
+          <li class="meu_conteudo">
+            <a href="#habilidades"><h2>Habilidades</h2></a>
+            <p>Trabalho em equipe;</p>
+            <p>Ótima comunicação;</p>
+            <p>Proatividade</p>
+            <p>Organizado</p>
+          </li>
+		 
+          <li class="meu_conteudo">
+            <a href=" #contato "><h2>Contato</h2></a>
+			 
+		    <h3>Meu email</h3>
+			<ul class="mail">
+            <a href="mailto:ednafreire@gmail.com">ednafreire@gmail.com</a>
+           	</ul> 		
+            <H3>como me encontrar</h3>
+			<ul class="social networks">
+			<li class="instagram"><a href="https://instagram.com/_priv_dudu18?igshid=YmMyMTA2M2Y=" ><img src="./instagram.png" alt="image" height="42" width="42" ></a></li>
+			<li class="facebook"><a href="https://www.facebook.com/eduardo.freire.526875" ><img src="./facebook.png" alt="image" height="42" width="42" ></a></li>
+			<li class="whatsapp"><a href="https://api.whatsapp.com/send?phone=5521997123386&text=Ol%C3%A1%2C%20Eduardo%20" ><img src="./whatsapp.png" alt="image" height="42" width="42" ></a></li>
+			<li class="twitter"><a href="https://twitter.com/Eduardofg5?t=F2d8wT73GwPk5z0aihhlMA&s=09" ><img src="./twitter.png" alt="image" height="42" width="42" ></a></li>
+	 
+	   </div>
+            <script src="scripts/scrollreveal.js"></script>
+	</main> 		
+</body>
+</html>
